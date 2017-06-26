@@ -11,6 +11,7 @@
 - **求职意向** : Web_前端开发工程师
 - **工作经验**: 2年								
 - **工作性质**: 全职
+- **工作地点**: 上海
 - [GitHub地址](https://github.com/zhaipanyu)
 - [简书博客]( http://www.jianshu.com/u/bb22e571b68c)
 
