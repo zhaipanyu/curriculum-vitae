@@ -38,7 +38,7 @@
 
 ## 项目2名称:**明格机械有限公司官网**
 - [**预览地址**](http://sawgood.cn)
-- **技术栈**: html5_ css3_ bootstrap_ jQuery_ webpack_ git
+- **技术栈**: html5_ css3_ bootstrap_ jQuery_ requirejs_ git
 - 1.工作描述: 主要运用jQuery框架实现代码逻辑,包括用户操作和获取数据和反馈提示,数据校验
 - 2.根据低保真,运用html5+css3+ bootstrap +jQuery实现页面布局和动态效果. 
 - 3.运用Ajax实现前后台json数据交互,前台向后台传递数据的封装.
@@ -50,14 +50,15 @@
 
 ## 项目3名称:**《企业个人建站》**
 - **项目简述**: 企业官网.
-- **技术栈**:jQuery_html5_css3_sass_requirejs_iconfont_Ajax_nodeJS_ npm_懒加载jQuery插件
+- **技术栈**:jQuery_html5_css3_sass_webpack_iconfont_Ajax_nodeJS_ npm_懒加载jQuery插件
 - **工作描述**:
-- 1. HTML5_CSS3搭建网站布局.
-- 2. jquery框架封装轮播组件,回到顶部组件,加载更多数据模块.
-- 3. requiretJS代码模块化管理,压缩代码.
-- 4. 封装Ajax获取数据,使用nmp工具的server-mock获取后台的数据,,模拟前后端数据交互.
-- 5. 使用懒加载实现屏幕可见时就向后台加载数据并显示.
-- 6. 使用本地iconfont字体图标减少http请求.
+- 1.HTML5_CSS3搭建网站布局.
+- 2.jquery框架封装轮播组件,回到顶部组件,加载更多数据模块.
+- 3.requiretJS代码模块化管理,压缩代码.
+- 4.封装Ajax获取数据,使用nmp工具的server-mock获取后台的数据,模拟前后端数据交互.
+- 5.使用懒加载实现屏幕可见时就向后台加载数据并显示.
+- 6.使用本地iconfont字体图标减少http请求.
+- 7.后期多次性能优化,增加新功能,使用webpack替换requirejs打包方式,减少几十秒的首屏时间,实现按需加载资源,提高用户体验.
 - **工作绩效**: 独自完成全部模块搭建,不断优化功能,后台接口调试,网站UI设计.
 - **项目用时**:一周
 
