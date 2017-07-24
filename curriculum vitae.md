@@ -49,6 +49,7 @@
 	
 
 ## 项目3名称:**企业个人建站**
+- [**预览地址**](http://www.jianshu.com/p/338aaf29a914)
 - **项目简述**: 企业官网.
 - **技术栈**:jQuery_html5_css3_sass_webpack_iconfont_Ajax_nodeJS_ npm_懒加载jQuery插件
 - **工作描述**:
